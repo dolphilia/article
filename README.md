@@ -2,4 +2,4 @@
 
 ツールやサービスの使い方を解説した文書を置いておく場所です。
 
-- dolphilia.github.io/article/
+- https://dolphilia.github.io/article/
